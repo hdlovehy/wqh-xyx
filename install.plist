@@ -29,7 +29,7 @@
 				<key>bundle-version</key>
 				<string>2.0.5</string>
 				<key>kind</key>
-				<string>software</string>
+				<string>APPL</string>
 				<key>title</key>
 				<string>ipa</string>
 			</dict>
