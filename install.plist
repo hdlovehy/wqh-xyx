@@ -27,11 +27,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ydb.ipa</string>
 				<key>bundle-version</key>
-				<string>201801171725</string>
+				<string>2.0.5</string>
 				<key>kind</key>
 				<string>APPL</string>
 				<key>title</key>
-				<string>xyx</string>
+				<string>ipa</string>
 			</dict>
 		</dict>
 	</array>
